@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithdg&label=Profile%20views&color=0e75b6&style=flat" alt="codewithdg" /> </p>
 
-- 👨‍💻 All of my projects are available at https://pseudoportfolio.netlify.app<br>
+- 👨‍💻 All of my projects are available at https://myportfoliodeep.netlify.app<br>
 
 💬 Ask me about I am a passionate web developer with a strong foundation full-stack technologies ,including HTML, CSS, JavaScript, and PHP.<br>
 - 📫 How to reach me **deepeshdwivedi77@gmail.com**<br>
